@@ -1,7 +1,3 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
 import pyrogram, os, asyncio
 
 try: app_id = int(os.environ.get("app_id", "20389440"))
@@ -94,7 +90,3 @@ print("Telegram AutoCaption V1 Bot Start")
 print("Bot Created By https://t.me/VJ_Botz")
 
 AutoCaptionBotV1.run()
-
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
